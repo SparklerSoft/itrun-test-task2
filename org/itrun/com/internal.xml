@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+    <Person>
+        <personId>1</personId>
+        <firstName>Updated Kacper</firstName>
+        <lastName>Novak</lastName>
+        <mobile>123456789</mobile>
+        <email>kacper@mail.com</email>
+        <pesel>12345678901</pesel>
+    </Person>
+    <Person>
+        <personId>2</personId>
+        <firstName>Anna</firstName>
+        <lastName>Pieczarka</lastName>
+        <mobile>111222333</mobile>
+        <email>anna@mail.com</email>
+        <pesel>12345676543</pesel>
+    </Person>
+</Employees>
